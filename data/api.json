@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image_url": "https://picsum.photos/200/300?random=1",
+      "title": "Wireless Headphones",
+      "price": 199.99,
+      "discount_percent": 10,
+      "reviews": 245,
+      "rating": 3.5
+    },
+    {
+      "id": 2,
+      "image_url": "https://picsum.photos/200/300?random=2",
+      "title": "Smartphone Pro X",
+      "price": 899.99,
+      "discount_percent": 15,
+      "reviews": 1100,
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "image_url": "https://picsum.photos/200/300?random=3",
+      "title": "Gaming Laptop",
+      "price": 1499.99,
+      "discount_percent": 20,
+      "reviews": 320,
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "image_url": "https://picsum.photos/200/300?random=4",
+      "title": "Bluetooth Speaker",
+      "price": 89.99,
+      "discount_percent": 5,
+      "reviews": 540,
+      "rating": 4.2
+    },
+    {
+      "id": 5,
+      "image_url": "https://picsum.photos/200/300?random=5",
+      "title": "Smartwatch Gen 5",
+      "price": 299.99,
+      "discount_percent": 12,
+      "reviews": 890,
+      "rating": 4.4
+    },
+    {
+      "id": 6,
+      "image_url": "https://picsum.photos/200/300?random=6",
+      "title": "4K LED TV 55 inch",
+      "price": 699.99,
+      "discount_percent": 18,
+      "reviews": 210,
+      "rating": 4.3
+    },
+    {
+      "id": 7,
+      "image_url": "https://picsum.photos/200/300?random=7",
+      "title": "Wireless Mouse",
+      "price": 25.99,
+      "discount_percent": 8,
+      "reviews": 1340,
+      "rating": 4.1
+    },
+    {
+      "id": 8,
+      "image_url": "https://picsum.photos/200/300?random=8",
+      "title": "Mechanical Keyboard",
+      "price": 120,
+      "discount_percent": 10,
+      "reviews": 740,
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "image_url": "https://picsum.photos/200/300?random=9",
+      "title": "DSLR Camera",
+      "price": 1099.99,
+      "discount_percent": 25,
+      "reviews": 305,
+      "rating": 3.8
+    },
+    {
+      "id": 10,
+      "image_url": "https://picsum.photos/200/300?random=10",
+      "title": "Portable Hard Drive 2TB",
+      "price": 89.99,
+      "discount_percent": 15,
+      "reviews": 490,
+      "rating": 4.3
+    },
+    {
+      "id": 11,
+      "image_url": "https://picsum.photos/200/300?random=11",
+      "title": "Fitness Tracker Band",
+      "price": 55.5,
+      "discount_percent": 5,
+      "reviews": 600,
+      "rating": 4
+    },
+    {
+      "id": 12,
+      "image_url": "https://picsum.photos/200/300?random=12",
+      "title": "Drone Camera",
+      "price": 499.99,
+      "discount_percent": 22,
+      "reviews": 210,
+      "rating": 3.4
+    },
+    {
+      "id": 13,
+      "image_url": "https://picsum.photos/200/300?random=13",
+      "title": "Smart Home Speaker",
+      "price": 150,
+      "discount_percent": 18,
+      "reviews": 980,
+      "rating": 4.5
+    },
+    {
+      "id": 14,
+      "image_url": "https://picsum.photos/200/300?random=14",
+      "title": "Air Purifier",
+      "price": 220,
+      "discount_percent": 20,
+      "reviews": 400,
+      "rating": 3.2
+    },
+    {
+      "id": 15,
+      "image_url": "https://picsum.photos/200/300?random=15",
+      "title": "Electric Kettle",
+      "price": 45.99,
+      "discount_percent": 10,
+      "reviews": 1500,
+      "rating": 4.1
+    },
+    {
+      "id": 16,
+      "image_url": "https://picsum.photos/200/300?random=16",
+      "title": "Microwave Oven",
+      "price": 180,
+      "discount_percent": 12,
+      "reviews": 450,
+      "rating": 4.3
+    },
+    {
+      "id": 17,
+      "image_url": "https://picsum.photos/200/300?random=17",
+      "title": "Coffee Maker",
+      "price": 99.99,
+      "discount_percent": 15,
+      "reviews": 890,
+      "rating": 4.2
+    },
+    {
+      "id": 18,
+      "image_url": "https://picsum.photos/200/300?random=18",
+      "title": "Refrigerator 300L",
+      "price": 599.99,
+      "discount_percent": 18,
+      "reviews": 320,
+      "rating": 4.5
+    },
+    {
+      "id": 19,
+      "image_url": "https://picsum.photos/200/300?random=19",
+      "title": "Washing Machine",
+      "price": 399.99,
+      "discount_percent": 20,
+      "reviews": 270,
+      "rating": 4.3
+    },
+    {
+      "id": 20,
+      "image_url": "https://picsum.photos/200/300?random=20",
+      "title": "Vacuum Cleaner",
+      "price": 150,
+      "discount_percent": 12,
+      "reviews": 620,
+      "rating": 4.1
+    }
+  ]
+}
